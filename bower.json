@@ -11,7 +11,7 @@
         "highlight",
         "syntax highlighting"
     ],
-    "license": "MIT",
+    "license": "BSD",
     "ignore": [
         "test",
         ".*",
