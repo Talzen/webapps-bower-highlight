@@ -6,9 +6,9 @@
     "description": "bower component of highlight.js (syntax highlighting for the Web)",
     "main": "highlight.pack.js",
     "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xl8/webapps-bower-highlight.git"
-   },
+        "type": "git",
+        "url": "git+https://github.com/xl8/webapps-bower-highlight.git"
+    },
     "license": "BSD",
     "ignore": [
         "test",
